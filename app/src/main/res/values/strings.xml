@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeartRateApp</string>
+    <string name="data">Add Data</string>
+    <string name="details">List of Data</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="repassword">Retype Password</string>
+</resources>
